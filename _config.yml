@@ -1,0 +1,11 @@
+# Site settings
+title: Temp awesome title
+name: Fadi Samisti
+email: fadisamisti@gmail.com
+description: Something missing? Feel free to mail me!
+baseurl: ""
+url: "http://fil0x.github.io/"
+github_username: fil0x
+
+# Build settings
+markdown: kramdown
