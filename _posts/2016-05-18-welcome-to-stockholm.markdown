@@ -97,10 +97,25 @@ External links
 [akademiskkvart](http://akademiskkvart.se/) <br/>
 [lappis.org](http://www.lappis.org/) <br/>
 [bostaddirekt](http://www.bostaddirekt.com/) <br/>
+[TheLocal Accommodation list](http://www.thelocal.se/noticeboard/?location=Stockholm&type=3) <br/>
+[Compus Roslagen](http://www.campusroslagen.se/accommodation/) <br/>
+[Campus Solna](http://www.campussolna.se/) <br/>
 
 Tips
 -
-**To come**
+* Never pay money in advance, a lot of people in panic pay money to scammers just to reserve a room.
+* Visit the house and make a list of damages, if any.
+* In the contract make it clear what is included and what not, access to facilities, furniture etc.
+* If you want to live in your own studio, close to the city, be ready to pay a lot.
+* Get a cellphone number and use it when its available if you have spotted a place you like. A lot of people don't reply to e-mails.
+* The earlier you arrive in the city, the easier it will be to find housing that is convenient, if we can talk about convenience in this housing market.
+
+Q&A
+-
+* I have < 120 days on SSSB before coming to Stockholm, is it possible to get a room? <br />
+> In the general case no, except some extemely lucky people. Imagine all the new students along with the ones already here fancy that room you really like.
+* SSSB kitchenette/studio? <br />
+> After the first year you have the least possible days to even fathom bidding on them.
 
 [1]:  https://www.kth.se/en/studies/master/student-blogs-1.438895
 [2]: http://www.kth.se/blogs/abhineet/
