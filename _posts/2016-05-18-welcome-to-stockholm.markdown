@@ -5,9 +5,8 @@ date:   2016-05-18 20:58:44 +0200
 categories: stockholm guides
 ---
 
-This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. For this first draft I went through ther KTH student blogs<sup>[1]</sup> and compiled this _raw_  list which I hope with your help can become a full introductory pointer document.
+This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. For this first draft I went through their KTH student blogs<sup>[1]</sup> and compiled this _raw_  list which I hope with your help can become a full introductory pointer document.
 
-**Updates to come, this is just an information dump.**
 
 Facebook groups
 -
@@ -103,21 +102,23 @@ External links
 
 Tips
 -
-* Never pay money in advance, a lot of people in panic pay money to scammers just to reserve a room.
+* Never pay money in advance, a lot of people in panic pay money to scammers just to reserve a room. If you are not in Stockholm, my suggestion would be to not pay money to anyone, regardless of how trustworthy the person seems to be.
 * Visit the house and make a list of damages, if any.
 * In the contract make it clear what is included and what not, access to facilities, furniture etc.
 * If you want to live in your own studio, close to the city, be ready to pay a lot.
 * Get a cellphone number and use it when its available if you have spotted a place you like. A lot of people don't reply to e-mails.
 * The earlier you arrive in the city, the easier it will be to find housing that is convenient, if we can talk about convenience in this housing market.
+* SIGN UP for SSSB. Even if you get accommodation from KTH/SU/whatever, being in the queue never hurt anyone. It will only take 5-10 minutes. SIGN UP!
+* Explore the city, it is full of hidden gems. Cheaper than their fancy and easily accessible counterparts.
 
 Q&A
 -
 * I have < 120 days on SSSB before coming to Stockholm, is it possible to get a room? <br />
 > In the general case no, except some extemely lucky people. Imagine all the new students along with the ones already here fancy that room you really like.
 * SSSB kitchenette/studio? <br />
-> After the first year you have the least possible days to even fathom bidding on them.
+> After the first year you have the least possible days to even fathom bidding on them. Luck is a big factor on this one too.
 
-[1]:  https://www.kth.se/en/studies/master/student-blogs-1.438895
+[1]: https://www.kth.se/en/studies/master/student-blogs-1.438895
 [2]: http://www.kth.se/blogs/abhineet/
 [3]: http://www.kth.se/blogs/anne/
 [4]: https://www.kth.se/blogs/johanna
