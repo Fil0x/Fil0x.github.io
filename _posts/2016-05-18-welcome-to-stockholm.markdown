@@ -5,7 +5,7 @@ date:   2016-05-18 20:58:44 +0200
 categories: stockholm guides
 ---
 
-This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. For this first draft I went through their KTH student blogs<sup>[1]</sup> and compiled this _raw_  list which I hope with your help can become a full introductory pointer document.
+This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. For this draft I went through the KTH student blogs<sup>[1]</sup> and compiled this _raw_  list which I hope with your help can become a full introductory pointer document.
 
 
 Facebook groups
@@ -84,7 +84,7 @@ KTH Student Blogs
 [Banking in Sweden !](https://www.kth.se/blogs/prasanth/2015/06/money-money-money/)<br/>
 [Permit to Reside in Sweden?](https://www.kth.se/blogs/prasanth/2015/05/permit-to-reside-in-sweden/)<br/>
 [FAQ in/out](https://www.kth.se/blogs/prasanth/2015/04/faq-inout/)<br/>
-[Permit to Reside in Sweden?](https://www.kth.se/blogs/prasanth/2015/03/results/)<br/>
+[Admission results are out ! What next??](https://www.kth.se/blogs/prasanth/2015/03/results/)<br/>
 [Living free in Stockholm!](https://www.kth.se/blogs/prasanth/2015/03/living-free-in-stockholm/)<br/>
 [Healthcare in Sweden](https://www.kth.se/blogs/prasanth/2015/02/healthcare-in-sweden/)<br/>
 
