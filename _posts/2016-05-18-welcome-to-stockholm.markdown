@@ -5,8 +5,11 @@ date:   2016-05-18 20:58:44 +0200
 categories: stockholm guides
 ---
 
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. For this draft I went through the KTH student blogs<sup>[1]</sup> and compiled this _raw_  list which I hope with your help can become a full introductory pointer document.
 
+_Last update_ : 22 July 2016
 
 Facebook groups
 -
@@ -29,12 +32,17 @@ Facebook groups
 KTH Student Blogs
 -
 
-####  Abhineet Singh Tomar<sup>[2]</sup>
+####  [Abhineet Singh Tomar](https://www.kth.se/blogs/abhineet/aboutme/)<sup>[2]</sup>
 [Admitted to KTH? What next !!!](https://www.kth.se/blogs/abhineet/2016/03/welcome-to-kth/) <br/>
 [Paving your way to KTH [Useful info for New Admits]](https://www.kth.se/blogs/abhineet/2016/05/welcometokth02/)<br/>
 [Finally it all comes down to money: Expenses and Funding](https://www.kth.se/blogs/abhineet/2016/01/ms-money01/)<br/>
 [Application Process for Masters Programmes at KTH](https://www.kth.se/blogs/abhineet/2015/12/application01/)<br/>
 [KTH Accomodation FAQ](https://www.kth.se/blogs/abhineet/2016/05/kth-accommodation-faq/)<br/>
+[Let’s go Shopping for Sweden](https://www.kth.se/blogs/abhineet/2016/06/shopping4sweden/)<br/>
+[The Ultimate Student Packing List](https://www.kth.se/blogs/abhineet/2016/07/packing/)<br/>
+[FAQ for Autumn 2016 admits](https://www.kth.se/blogs/abhineet/2016/06/faq2/)<br/>
+[Cost of Living as a Student in Stockholm](https://www.kth.se/blogs/abhineet/2016/05/livingexpense/)<br/>
+[Let me take you to Stockholm - Link index](https://www.kth.se/blogs/abhineet/joinkth/)<br/>
 
 ####  Anne Marie Girtz<sup>[3]</sup>
 [It Can Happen to You!](https://www.kth.se/blogs/anne/2015/02/it-can-happen-to-you/)<br/>
@@ -119,7 +127,7 @@ Q&A
 > After the first year you have the least possible days to even fathom bidding on them. Luck is a big factor on this one too.
 
 [1]: https://www.kth.se/en/studies/master/student-blogs-1.438895
-[2]: http://www.kth.se/blogs/abhineet/
+[2]: https://www.kth.se/blogs/abhineet/blogmap/
 [3]: http://www.kth.se/blogs/anne/
 [4]: https://www.kth.se/blogs/johanna
 [5]: https://www.kth.se/blogs/daniel
