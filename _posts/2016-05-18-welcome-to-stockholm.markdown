@@ -7,9 +7,9 @@ categories: stockholm guides
 
 [//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. For this draft I went through the KTH student blogs<sup>[1]</sup> and compiled this _raw_  list which I hope with your help can become a full introductory pointer document.
+This guide is meant to give the Stockholm newcomers, students or not, a place to find all the information they might need. It contains information mostly from the KTH student blogs<sup>[1]</sup> and a few other links found in the wild. Do not settle down on this list though, you wouldn't trust a stranger in the streets, same goes for the wild, wild web. By no means this a comprehensive compilation. Visit the links listed, they are a treasure of information but mileage may vary so take them with a grain of salt, like this document.
 
-_Last update_ : 22 July 2016
+_Last update_ : 13 August 2016
 
 Facebook groups
 -
@@ -107,6 +107,8 @@ External links
 [TheLocal Accommodation list](http://www.thelocal.se/noticeboard/?location=Stockholm&type=3) <br/>
 [Compus Roslagen](http://www.campusroslagen.se/accommodation/) <br/>
 [Campus Solna](http://www.campussolna.se/) <br/>
+[KTH Relocation](https://www.kth.se/en/om/work-at-kth/relocation) <br />
+[Theoretical Computer Science Wiki's Housing tips](http://tcs-wiki.csc.kth.se/mediawiki/index.php/Newcomers) <br />
 
 Tips
 -
@@ -118,13 +120,6 @@ Tips
 * The earlier you arrive in the city, the easier it will be to find housing that is convenient, if we can talk about convenience in this housing market.
 * SIGN UP for SSSB. Even if you get accommodation from KTH/SU/whatever, being in the queue never hurt anyone. It will only take 5-10 minutes. SIGN UP!
 * Explore the city, it is full of hidden gems. Cheaper than their fancy and easily accessible counterparts.
-
-Q&A
--
-* I have < 120 days on SSSB before coming to Stockholm, is it possible to get a room? <br />
-> In the general case no, except some extemely lucky people. Imagine all the new students along with the ones already here fancy that room you really like.
-* SSSB kitchenette/studio? <br />
-> After the first year you have the least possible days to even fathom bidding on them. Luck is a big factor on this one too.
 
 [1]: https://www.kth.se/en/studies/master/student-blogs-1.438895
 [2]: https://www.kth.se/blogs/abhineet/blogmap/
